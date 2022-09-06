@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranav
 - 👀 I’m interested in new Learning
-- 💞️ I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 📫 To reach me mail kumpranav21@gmail.com
 
 <!---
